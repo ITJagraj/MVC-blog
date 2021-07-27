@@ -7,7 +7,7 @@
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-    color: #333;
+    color: black;
   }
   
   a {
@@ -22,7 +22,7 @@
   }
   
   header a:hover {
-   color: lightgrey; 
+   color: white; 
   }
   
   .home-title {
@@ -91,7 +91,7 @@
   }
   
   header {
-    background-color: lightslategray;
+    background-color: black;
     border-bottom: 1px solid #ccc;
     display: flex;
     justify-content: space-between;
@@ -116,7 +116,7 @@
     padding: 0;
     cursor: pointer;
     text-decoration: none;
-    color: #225ca3;
+    color: blue;
     font-size: 100%;
     font-weight: bold;
     transition: color .1s;
